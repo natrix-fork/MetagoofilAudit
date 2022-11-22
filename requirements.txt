@@ -13,7 +13,7 @@ IMAPClient==2.1.0
 lxml==4.4.2
 olefile==0.46
 pdfminer.six==20181108
-Pillow==7.0.0
+Pillow==9.3.0
 py3dns==3.2.1
 pycryptodome==3.9.4
 python-pptx==0.6.18
